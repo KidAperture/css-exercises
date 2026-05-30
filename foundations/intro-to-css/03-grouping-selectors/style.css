@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+}
+.yes{
+background-color: black;
+color: white;
+}
+
+.no{
+    background-color: yellow;
+}
